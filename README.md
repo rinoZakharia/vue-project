@@ -1,7 +1,7 @@
 # vue-project
 
-Create a simple CRUD project using Vue.js that interacts with an API built with Express.js
-API : [github.com/rinoZakharia/api-express](github.com/rinoZakharia/api-express)
+Create a simple CRUD project using Vue.js that interacts with an API built with Express.js <br>
+API : [github.com/rinoZakharia/api-express](https://github.com/rinoZakharia/api-express)
 
 ## Recommended IDE Setup
 
