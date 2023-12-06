@@ -1,6 +1,7 @@
 # vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+Create a simple CRUD project using Vue.js that interacts with an API built with Express.js
+API : [github.com/rinoZakharia/api-express](github.com/rinoZakharia/api-express)
 
 ## Recommended IDE Setup
 
